@@ -1,16 +1,16 @@
 {
-"name": "mmcbet",
-"theme": "m mc bet",
-"version": "9.9.10",
-"description": "m mc bet ทางเข้าหลักเว็บพนันเว็บตรง อันดับ 1 รับเงินเครดิตฟรี",
-"keywords": [
-"m mc bet",
-"m mc bet เครดิตฟรี",
-"m mc bet ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/mmcbet",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "mmcbet",
+  "theme": "m mc bet",
+  "version": "9.10.0",
+  "description": "m mc bet ทางเข้าหลักเว็บพนันเว็บตรง อันดับ 1 รับเงินเครดิตฟรี",
+  "keywords": [
+    "m mc bet",
+    "m mc bet เครดิตฟรี",
+    "m mc bet ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/mmcbet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
